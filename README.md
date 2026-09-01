@@ -89,3 +89,5 @@ MIT License - see LICENSE file
 ---
 
 **Made with ❤️ by the ServerGuard Team**
+pip install -r requirements.txt
+python main.py
